@@ -37,7 +37,7 @@ func main() {
 
 	// Custom error type
 	fmt.Println("=== Custom Error Type ===")
-	err3 := &ValidationError{
+	var err3 error = &ValidationError{
 		Field:   "email",
 		Message: "invalid email format",
 	}
