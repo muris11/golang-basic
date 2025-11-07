@@ -24,6 +24,12 @@ func main() {
 		height int = 170 // deklarasi multiple variable dengan blok var
 	)
 
+	var (
+		_ string = "Rifqy" // deklarasi multiple variable tanpa inisialisasi
+		_ string = "Saputra" // deklarasi multiple variable tanpa inisialisasi
+		_ int = 170 // deklarasi multiple variable tanpa inisialisasi
+	)
+
 	fmt.Println(myName) // penggunaan variabel
 	fmt.Println(nickName) // penggunaan variabel
 	fmt.Println(myAge) // penggunaan variabel
@@ -43,4 +49,5 @@ func main() {
 	fmt.Println(firstName) // penggunaan multiple variable dengan blok var
 	fmt.Println(lastName) // penggunaan multiple variable dengan blok var
 	fmt.Println(height) // penggunaan multiple variable dengan blok var
+	
 }
