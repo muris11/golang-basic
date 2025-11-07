@@ -1,0 +1,34 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Go workspace file
+go.work
+
+# Dependency directories
+vendor/
+
+# Go module cache
+root/
+
+# Build artifacts
+examples/01_datatypes
+examples/02_variables
+examples/03_operators
+examples/04_controlflow
+examples/05_functions
+examples/06_arrays_slices
+examples/07_maps
+examples/08_structs
+examples/09_interfaces
+examples/10_concurrency
+examples/11_errorhandling
