@@ -19,10 +19,10 @@ Berikut adalah struktur folder dalam proyek ini:
 - **go-array/**: Contoh penggunaan array dalam Go.
 - **go-slice/**: Contoh penggunaan slice dalam Go.
 - **go-map/**: Contoh penggunaan map dalam Go.
-- **go-operator-aritmatika/**: Contoh operator aritmatika (+, -, *, /, %).
+- **go-operator-aritmatika/**: Contoh operator aritmatika (+, -, \*, /, %).
 - **go-operator-perbandingan/**: Contoh operator perbandingan (==, !=, <, >, <=, >=).
 - **go-operator-logika/**: Contoh operator logika (&&, ||, !).
-- **go-operator-penugasan/**: Contoh operator penugasan (=, +=, -=, *=, /=, %=).
+- **go-operator-penugasan/**: Contoh operator penugasan (=, +=, -=, \*=, /=, %=).
 - **go-operasi-slice/**: Operasi-operasi pada slice seperti append, copy, dan slicing.
 
 Setiap folder berisi file `main.go` yang dapat dijalankan untuk melihat output contoh kode.
