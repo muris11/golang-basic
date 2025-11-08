@@ -1,6 +1,6 @@
 # Golang Basic Learning
 
-Proyek ini adalah kumpulan contoh kode dasar untuk belajar bahasa pemrograman Go (Golang). Setiap folder berisi contoh-contoh sederhana yang menjelaskan konsep-konsep fundamental dalam Go, seperti sintaks dasar, komentar, konstanta, fungsi output, tipe data, variabel, dan lainnya.
+Proyek ini adalah kumpulan contoh kode dasar untuk belajar bahasa pemrograman Go (Golang). Setiap folder berisi contoh-contoh sederhana yang menjelaskan konsep-konsep fundamental dalam Go, seperti sintaks dasar, komentar, konstanta, fungsi output, tipe data, variabel, array, slice, map, operator, dan lainnya.
 
 ## Struktur Proyek
 
@@ -14,7 +14,16 @@ Berikut adalah struktur folder dalam proyek ini:
 - **go-tipe-data-boolean/**: Contoh tipe data boolean.
 - **go-tipe-data-float/**: Contoh tipe data float (desimal).
 - **go-tipe-data-integer/**: Contoh tipe data integer (bilangan bulat).
+- **go-tipe-data-string/**: Contoh tipe data string.
 - **go-variable/**: Penggunaan variabel dalam Go.
+- **go-array/**: Contoh penggunaan array dalam Go.
+- **go-slice/**: Contoh penggunaan slice dalam Go.
+- **go-map/**: Contoh penggunaan map dalam Go.
+- **go-operator-aritmatika/**: Contoh operator aritmatika (+, -, *, /, %).
+- **go-operator-perbandingan/**: Contoh operator perbandingan (==, !=, <, >, <=, >=).
+- **go-operator-logika/**: Contoh operator logika (&&, ||, !).
+- **go-operator-penugasan/**: Contoh operator penugasan (=, +=, -=, *=, /=, %=).
+- **go-operasi-slice/**: Operasi-operasi pada slice seperti append, copy, dan slicing.
 
 Setiap folder berisi file `main.go` yang dapat dijalankan untuk melihat output contoh kode.
 
@@ -26,6 +35,14 @@ Setiap folder berisi file `main.go` yang dapat dijalankan untuk melihat output c
 - **Fungsi Output**: Menggunakan fmt untuk mencetak ke konsol.
 - **Tipe Data**: Pengenalan boolean, integer, float, dan string.
 - **Variabel**: Cara mendeklarasikan dan menggunakan variabel.
+- **Array**: Struktur data array untuk menyimpan elemen dengan ukuran tetap.
+- **Slice**: Struktur data slice yang dinamis berdasarkan array.
+- **Map**: Struktur data map untuk key-value pairs.
+- **Operator Aritmatika**: Operasi matematika dasar.
+- **Operator Perbandingan**: Membandingkan nilai.
+- **Operator Logika**: Operasi logika seperti AND, OR, NOT.
+- **Operator Penugasan**: Menetapkan nilai ke variabel.
+- **Operasi Slice**: Manipulasi slice seperti append dan copy.
 
 ## Prerequisites
 
