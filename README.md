@@ -22,7 +22,7 @@ Berikut adalah struktur folder dalam proyek ini:
 - **go-operator-aritmatika/**: Contoh operator aritmatika (+, -, \*, /, %).
 - **go-operator-perbandingan/**: Contoh operator perbandingan (==, !=, <, >, <=, >=).
 - **go-operator-logika/**: Contoh operator logika (&&, ||, !).
-- **go-operator-penugasan/**: Contoh operator penugasan (=, +=, -=, *=, /=, %=).
+- **go-operator-penugasan/**: Contoh operator penugasan (=, +=, -=, \*=, /=, %=).
 - **go-operasi-slice/**: Operasi-operasi pada slice seperti append, copy, dan slicing.
 - **go-function/**: Contoh penggunaan fungsi dasar dalam Go.
 - **go-function-parameter/**: Contoh fungsi dengan parameter dalam Go.
