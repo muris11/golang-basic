@@ -1,6 +1,6 @@
 # Golang Basic Learning
 
-Proyek ini adalah kumpulan contoh kode dasar untuk belajar bahasa pemrograman Go (Golang). Setiap folder berisi contoh-contoh sederhana yang menjelaskan konsep-konsep fundamental dalam Go, seperti sintaks dasar, komentar, konstanta, fungsi output, tipe data, variabel, array, slice, map, operator, loop, conditional statements, functions, dan lainnya.
+Proyek ini adalah kumpulan contoh kode dasar untuk belajar bahasa pemrograman Go (Golang). Setiap folder berisi contoh-contoh sederhana yang menjelaskan konsep-konsep fundamental dalam Go, seperti sintaks dasar, komentar, konstanta, fungsi output, tipe data, variabel, array, slice, map, operator, dan lainnya.
 
 ## Struktur Proyek
 
@@ -22,14 +22,10 @@ Berikut adalah struktur folder dalam proyek ini:
 - **go-operator-aritmatika/**: Contoh operator aritmatika (+, -, \*, /, %).
 - **go-operator-perbandingan/**: Contoh operator perbandingan (==, !=, <, >, <=, >=).
 - **go-operator-logika/**: Contoh operator logika (&&, ||, !).
-- **go-operator-penugasan/**: Contoh operator penugasan (=, +=, -=, \*=, /=, %=).
+- **go-operator-penugasan/**: Contoh operator penugasan (=, +=, -=, *=, /=, %=).
 - **go-operasi-slice/**: Operasi-operasi pada slice seperti append, copy, dan slicing.
-- **go-if-statement/**: Contoh penggunaan if statement dan else.
-- **go-switch-statement/**: Contoh penggunaan switch statement.
-- **go-for-loops/**: Contoh penggunaan for loops.
-- **go-break-and-continue/**: Contoh penggunaan break dan continue dalam loop.
-- **go-function/**: Contoh deklarasi dan penggunaan function.
-- **go-function-parameter/**: Contoh function dengan parameter.
+- **go-function/**: Contoh penggunaan fungsi dasar dalam Go.
+- **go-function-parameter/**: Contoh fungsi dengan parameter dalam Go.
 
 Setiap folder berisi file `main.go` yang dapat dijalankan untuk melihat output contoh kode.
 
@@ -49,12 +45,8 @@ Setiap folder berisi file `main.go` yang dapat dijalankan untuk melihat output c
 - **Operator Logika**: Operasi logika seperti AND, OR, NOT.
 - **Operator Penugasan**: Menetapkan nilai ke variabel.
 - **Operasi Slice**: Manipulasi slice seperti append dan copy.
-- **If Statement**: Conditional statements untuk pengambilan keputusan.
-- **Switch Statement**: Alternatif untuk multiple if-else.
-- **For Loops**: Perulangan untuk mengeksekusi kode berulang.
-- **Break and Continue**: Kontrol alur dalam loop.
-- **Function**: Deklarasi dan penggunaan fungsi.
-- **Function Parameter**: Fungsi dengan parameter input.
+- **Fungsi**: Deklarasi dan penggunaan fungsi dasar.
+- **Fungsi dengan Parameter**: Fungsi yang menerima parameter.
 
 ## Prerequisites
 
